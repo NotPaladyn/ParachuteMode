@@ -1,0 +1,6 @@
+<meta>
+	<info name="Parachute Mode" author="NotPaladyn" version="1.0" />
+
+	<script src="c_pmode.lua" type="client" cache="false" />
+	<script src="s_pmode.lua" type="server" />
+</meta>
